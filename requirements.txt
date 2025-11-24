@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.15.0
+openai==0.28.1
+Flask==2.3.2
+gunicorn==21.2.0
